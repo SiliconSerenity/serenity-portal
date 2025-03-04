@@ -1,3 +1,48 @@
+# Serenity Portal
+
+**PRIVATE APPLICATION - PERSONAL USE ONLY**
+
+This application is a private tool developed for personal use only. It is not a public service, and access is strictly limited to authorized individuals who have been personally granted access by the owner.
+
+## Important Notice
+
+- **Not For Public Use**: This application is not intended for public use under any circumstances
+- **No Unauthorized Access**: Any attempt to access this system without explicit permission is prohibited
+- **Private Login Required**: Access requires specific credentials that are privately distributed
+- **No Commercial Purpose**: This tool is for personal, non-commercial use only
+- **No Reverse Engineering**: Attempting to reverse engineer, decompile, or extract source code is prohibited
+
+## Terms of Use
+
+By accessing this application, you agree that:
+
+1. You have been personally authorized by the owner to use this application
+2. You will not share your access credentials with any other person
+3. You will not attempt to bypass any security measures
+4. You will not use this application for any purpose other than its intended personal use
+5. You understand that all activity is logged and monitored
+
+## Privacy & Security
+
+This application:
+- Does not collect or store personal data beyond what's necessary for authentication
+- Uses encrypted connections for all data transfers
+- Implements security best practices including JWT authentication and session management
+- Maintains private access controls at all levels of the application stack
+
+## Legal
+
+This application is designed for legitimate personal use in accordance with applicable laws. The owner makes no warranties regarding the application and assumes no liability for its use.
+
+## Contact
+
+For questions or support, please contact the owner directly through pre-established personal channels. No public support is provided.
+
+---
+
+© 2025 - All Rights Reserved
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
